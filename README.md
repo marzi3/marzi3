@@ -208,7 +208,7 @@ exploring: ["Deep Learning", "Explainable AI (XAI)"]
   <h2>🌌 3D Contribution Calendar</h2>
   <br/>
   
-  <img src="https://raw.githubusercontent.com/marzi3/marzi3/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
   
   <br/><br/>
   
