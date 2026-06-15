@@ -11,8 +11,8 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/maryamwimaleswaran/"><img src="https://img.shields.io/badge/LinkedIn-(%E2%8C%A3%E2%80%A2%E1%B4%A5%E2%80%A2%E2%8C%A3)-FFC0CB?style=for-the-badge&logo=linkedin&logoColor=white&color=DDA0DD"/></a>
-<a href="mailto:maryamwimaleswaran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me_-%E2%9C%89%EF%B8%8F-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white&color=E6E6FA"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-View_Work_-%E2%9C%A8-DDA0DD?style=for-the-badge&logo=googlechrome&logoColor=white&color=FFC0CB"/></a>
+<a href="mailto:maryamwimaleswaran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white&color=E6E6FA"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-View_Work-DDA0DD?style=for-the-badge&logo=googlechrome&logoColor=white&color=FFC0CB"/></a>
 
 </div>
 
@@ -52,9 +52,9 @@ exploring: ["Deep Learning", "Explainable AI (XAI)"]
 <td width="35%" align="center" valign="top">
 
   <br/><br/>
-  <img src="https://media.tenor.com/J7T3J0Gk7wAAAAAj/typing-anime.gif" width="180" alt="Cute Anime Girl Typing"/>
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="180" alt="Cute Anime Girl Typing"/>
   <br/><br/>
-  <img src="https://media.tenor.com/F_rL9Uo0t0QAAAAj/mochi-peachcat-mochi.gif" width="120" alt="Cute Peach Cat"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="120" alt="Cute Peach Cat"/>
 
 </td>
 </tr>
@@ -165,7 +165,7 @@ exploring: ["Deep Learning", "Explainable AI (XAI)"]
 
   <td width="50%" valign="top" align="center">
     <br/>
-    <img src="https://media.tenor.com/J3b-9A1_w4oAAAAj/milk-and-mocha-bear-cute.gif" width="160" alt="Cute bears walking"/>
+    <img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="160" alt="Cute bears walking"/>
     <br/><br/>
     <a href="#"><b>🌐 View More on My Portfolio</b></a>
   </td>
@@ -218,7 +218,7 @@ exploring: ["Deep Learning", "Explainable AI (XAI)"]
 <br/>
 
 <div align="center">
-  <img src="https://media.tenor.com/mOtwM5L33P8AAAAj/cute-cat-kiss.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100"/>
   <br/><br/>
   <sub>Thanks for stopping by! Let's collaborate on something great. 💕</sub>
 </div>
