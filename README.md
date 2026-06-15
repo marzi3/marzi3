@@ -218,8 +218,8 @@ exploring: ["Deep Learning", "Explainable AI (XAI)"]
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="100"/>
-  <br/><br/>
+  <h3>( ˘ ³˘)♥</h3>
+  <br/>
   <sub>Thanks for stopping by! Let's collaborate on something great. 💕</sub>
 </div>
 
