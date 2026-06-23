@@ -184,16 +184,16 @@ exploring: ["Deep Learning", "Explainable AI (XAI)"]
   <h2>📊 GitHub Analytics (❁´◡`❁)</h2>
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=marzi3&show_icons=true&theme=transparent&hide_border=true&title_color=DDA0DD&icon_color=FFB6C1&text_color=B8A4F8&bg_color=00000000" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzi3&theme=transparent&hide_border=true&ring=DDA0DD&fire=FFB6C1&currStreakLabel=DDA0DD&background=00000000" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marzi3&show_icons=true&theme=transparent&hide_border=true&title_color=DDA0DD&icon_color=FFB6C1&text_color=B8A4F8&bg_color=00000000&v=1" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marzi3&theme=transparent&hide_border=true&ring=DDA0DD&fire=FFB6C1&currStreakLabel=DDA0DD&background=00000000&v=1" height="180"/>
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzi3&layout=compact&theme=transparent&hide_border=true&title_color=DDA0DD&text_color=B8A4F8&bg_color=00000000&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzi3&layout=compact&theme=transparent&hide_border=true&title_color=DDA0DD&text_color=B8A4F8&bg_color=00000000&langs_count=8&v=1" height="180"/>
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marzi3&theme=react-dark&hide_border=true&bg_color=00000000&color=DDA0DD&line=FFB6C1&point=FFC0CB&area=true&area_color=E6E6FA" width="85%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marzi3&theme=react-dark&hide_border=true&bg_color=00000000&color=DDA0DD&line=FFB6C1&point=FFC0CB&area=true&area_color=E6E6FA&v=1" width="85%"/>
 </div>
 
 <br/>
